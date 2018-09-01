@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "893738421785",
+    "firebase_url": "https://tracking-app-android.firebaseio.com",
+    "project_id": "tracking-app-android",
+    "storage_bucket": "tracking-app-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893738421785:android:0d8d804ff2a437e0",
+        "android_client_info": {
+          "package_name": "drivee.trackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893738421785-nshp239edbhqia59otn5rgn3hn4o3cdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "drivee.trackingapp",
+            "certificate_hash": "3bf87efc0b528c8fcc6c5ece2714ee4cb27e47d4"
+          }
+        },
+        {
+          "client_id": "893738421785-dnpu235qebqqcslahohh8p7uqhnc7rfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR3vT50VMhRuizrfZDQIGYrSS0FEyde84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893738421785-dnpu235qebqqcslahohh8p7uqhnc7rfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
